@@ -1,4 +1,4 @@
-# swi# Layer 2 Switching & Enterprise Routing Study Guide
+# Layer 2 Switching & Enterprise Routing Study Guide
 
 This repository contains my deep-dive technical notes, configuration guides, and architectural breakdowns based on enterprise networking requirements.
 
